@@ -1,7 +1,7 @@
 library(tidyverse)
 library(ggthemes)
 
-setwd("/Documents/COSC 375/Candy Crush")
+setwd(---)
 
 # Import the csv file using readr
 cc_1 <- read_csv("candy_crush.csv")
